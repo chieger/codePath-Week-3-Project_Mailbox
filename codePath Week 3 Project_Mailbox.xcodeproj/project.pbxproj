@@ -13,6 +13,7 @@
 		ED6BF24C1B20B491001F0659 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED6BF24B1B20B491001F0659 /* Images.xcassets */; };
 		ED6BF24F1B20B491001F0659 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ED6BF24D1B20B491001F0659 /* LaunchScreen.xib */; };
 		ED6BF25B1B20B491001F0659 /* codePath_Week_3_Project_MailboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED6BF25A1B20B491001F0659 /* codePath_Week_3_Project_MailboxTests.swift */; };
+		ED6BF2651B20B666001F0659 /* MailboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED6BF2641B20B666001F0659 /* MailboxViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		ED6BF2541B20B491001F0659 /* codePath Week 3 Project_MailboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "codePath Week 3 Project_MailboxTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED6BF2591B20B491001F0659 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED6BF25A1B20B491001F0659 /* codePath_Week_3_Project_MailboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codePath_Week_3_Project_MailboxTests.swift; sourceTree = "<group>"; };
+		ED6BF2641B20B666001F0659 /* MailboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MailboxViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				ED6BF2441B20B491001F0659 /* AppDelegate.swift */,
+				ED6BF2641B20B666001F0659 /* MailboxViewController.swift */,
 				ED6BF2461B20B491001F0659 /* ViewController.swift */,
 				ED6BF2481B20B491001F0659 /* Main.storyboard */,
 				ED6BF24B1B20B491001F0659 /* Images.xcassets */,
@@ -214,6 +217,7 @@
 			files = (
 				ED6BF2471B20B491001F0659 /* ViewController.swift in Sources */,
 				ED6BF2451B20B491001F0659 /* AppDelegate.swift in Sources */,
+				ED6BF2651B20B666001F0659 /* MailboxViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
